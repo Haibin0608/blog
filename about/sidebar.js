@@ -88,10 +88,7 @@ module.exports = [
         title: "22-对象字面量增强和函数默认参数",
         path: "/about/notes/js/23-对象字面量增强和函数默认参数",
       },
-      {
-        title: "23-剩余参数和展开运算符",
-        path: "/about/notes/js/24-剩余参数和展开运算符",
-      },
+      
       {
         title: "24-Set 和 Map数据结构和Symbol",
         path: "/about/notes/js/25-Set 和 Map数据结构和Symbol",
