@@ -6,7 +6,7 @@ module.exports = [
         text: '案例', link: '/case/'
     },
     {
-        text: '笔记',link:"/about/"
+        text: '关于学习',link:"/about/"
 		// items: [
         //     {text: '初级开发篇', link: '/***/'},
         //     {text: '中高进阶篇', link: '/baodian/high/'},
