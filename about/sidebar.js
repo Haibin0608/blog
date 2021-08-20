@@ -36,13 +36,16 @@ module.exports = [
       },
       { title: "12-动画样式", path: "/about/notes/css/14-动画样式" },
       { title: "13-transform", path: "/about/notes/css/15-transform" },
-      
-      { title: "14-弹性盒模型", path: "/about/notes/css/17-弹性盒模型" },
       {
-        title: "15-阿里图标 组件化 swiper",
+        title: "14-3D盒阴影和遮罩",
+        path: "/about/notes/css/16-3d和盒阴影和遮罩",
+      },
+      { title: "15-弹性盒模型", path: "/about/notes/css/17-弹性盒模型" },
+      {
+        title: "16-阿里图标 组件化 swiper",
         path: "/about/notes/css/18-阿里图标 组件化 swiper",
       },
-      { title: "16-响应式", path: "/about/notes/css/19-响应式" },
+      { title: "17-响应式", path: "/about/notes/css/19-响应式" },
       { title: "less", path: "/about/notes/css/less" },
     ],
   },
@@ -88,7 +91,10 @@ module.exports = [
         title: "22-对象字面量增强和函数默认参数",
         path: "/about/notes/js/23-对象字面量增强和函数默认参数",
       },
-      
+      {
+        title: "23-剩余参数和展开运算符",
+        path: "/about/notes/js/24-剩余参数和展开运算符",
+      },
       {
         title: "24-Set 和 Map数据结构和Symbol",
         path: "/about/notes/js/25-Set 和 Map数据结构和Symbol",
